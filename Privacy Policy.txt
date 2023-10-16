@@ -1,0 +1,51 @@
+Privacy Policy for "LIVE Outside"
+
+Effective Date: 10/16/2023
+
+1. Introduction
+
+Welcome to "LIVE Outside", an Android application ("App") developed by Virtual Heroes ("We", "Us", "Our"). We respect your privacy and are committed to protecting it. This Privacy Policy describes how we collect, use, store, and disclose your information when you use our App.
+
+2. Information We Collect
+
+2.1. Directly Provided Information: When you use the App, you may provide us with personal information such as your name and email address.
+
+2.2. Automatically Collected Information: We collect device-related information like device ID, operating system version, and usage statistics.
+
+3. How We Use Your Information
+
+We use the collected information to:
+
+Provide, maintain, and improve our App.
+Respond to your requests, comments, or questions.
+Send updates, security alerts, and support messages.
+Monitor and analyze usage and trends.
+
+4. Sharing of Your Information
+
+We will not share your personal information with third parties without your consent, except in the following circumstances:
+
+With third-party service providers to enable them to provide services on our behalf.
+If required by law, regulation, or legal request.
+To protect the safety, rights, or property of the public, any person, or Virtual Heroes.
+
+5. Security
+
+We take reasonable measures to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration, and destruction. However, the internet is not 100% secure, and we cannot guarantee absolute security.
+
+6. Children's Privacy
+
+Our App is not directed to children under 13. If we become aware that a child under 13 has provided us with personal information without parental consent, we will take steps to remove such information.
+
+7. Changes to This Policy
+
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the "Effective Date" at the top and, in some cases, provide you with additional notice.
+
+8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Virtual Heroes
+8537 Six Forks Rd #600, Raleigh, NC 27615
+vhdeveloper@gmail.com	
+919-747-7600
